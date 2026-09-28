@@ -1,3 +1,5 @@
+#Desconto condicional
+
 compraDesconto= 0
 compra=(float(input("Informe o valor da compra: ")))
 

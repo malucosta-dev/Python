@@ -1,3 +1,5 @@
+#Condicional para selecionar candidatos para processo seletivo
+
 media=float(input("Informe sua média de 0 a 10: "))
 
 if media>=8 and media<=10:
